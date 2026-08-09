@@ -1,5 +1,21 @@
 from typing import List
 
+
+# rows = [set() for _ in range(9)]
+# cols = [set() for _ in range(9)]
+# box_index = [set() for _ in range(9)]
+
+# for r in rows:
+#     for c on cols:
+#         val = board[r][c]
+#         if val == '.':
+#             continue
+#         box_index = (r//3)*3+(c//3)
+
+#         if val in rows[r] or val in cols[c] or box[box_index]:
+#             return
+
+
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         rows = [set() for _ in range(9)]
