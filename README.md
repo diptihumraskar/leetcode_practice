@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/diptihumraskar/leetcode_practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/diptihumraskar/leetcode_practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/diptihumraskar/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/diptihumraskar/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/diptihumraskar/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/diptihumraskar/leetcode_practice/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/diptihumraskar/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/diptihumraskar/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
