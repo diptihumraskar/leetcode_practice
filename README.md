@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/diptihumraskar/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/diptihumraskar/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/diptihumraskar/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/diptihumraskar/leetcode_practice/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/diptihumraskar/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/diptihumraskar/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/diptihumraskar/leetcode_practice/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/diptihumraskar/leetcode_practice/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/diptihumraskar/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/diptihumraskar/leetcode_practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/diptihumraskar/leetcode_practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
