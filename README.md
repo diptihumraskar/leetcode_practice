@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/diptihumraskar/leetcode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/diptihumraskar/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/diptihumraskar/leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/diptihumraskar/leetcode_practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/diptihumraskar/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/diptihumraskar/leetcode_practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
